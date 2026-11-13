@@ -1,0 +1,19 @@
+{
+  "archive_root": "work-to-post-chatgpt",
+  "archive_file": "work-to-post-chatgpt.zip",
+  "files": {
+    "START-HERE.md": "START-HERE.md",
+    "WORK-TO-POST.md": "WORK-TO-POST.md",
+    "PROJECT-INSTRUCTIONS.txt": "PROJECT-INSTRUCTIONS.txt",
+    "PROFILE.md": "work-to-post/assets/profile.md",
+    "POST-BRIEF.md": "work-to-post/assets/post-brief.md",
+    "RESULTS-LOG.md": "work-to-post/assets/review-log.md",
+    "EXAMPLES.md": "work-to-post/references/examples.md",
+    "TRY-IT.md": "TRY-IT.md",
+    "LICENSE": "LICENSE",
+    "AUTHORS.md": "AUTHORS.md",
+    "THIRD_PARTY_NOTICES.md": "THIRD_PARTY_NOTICES.md",
+    "third_party/no-ai-slop/LICENSE": "third_party/no-ai-slop/LICENSE",
+    "VERSION": "VERSION"
+  }
+}

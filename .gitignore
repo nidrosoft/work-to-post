@@ -1,0 +1,10 @@
+local/
+pilots/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+.venv/
+dist/*
+!dist/work-to-post-chatgpt.zip

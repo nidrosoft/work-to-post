@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01_clients",
+    "prompt": "Use Work to Post in Draft mode. I am Cyriac Zeh, founder of Nidrosoft, with 15+ years across software and product engineering, AI architecture, design, and consulting. I want relevant small-business client inquiries. For this exercise, use only these supplied facts: an HVAC business had separate booking, CRM, and follow-up tools. Nidrosoft connected the workflow so a booking creates the CRM record and starts the follow-up. No measured revenue, conversion, or time-saving result is available. There is no demo recording yet. Write one short X post without browsing."
+  },
+  {
+    "id": "02_quiet_edit",
+    "prompt": "Use Work to Post to edit the following. Return only the revised text, under 90 words. Preserve my technical meaning and uncertainty.\n\nHere's the thing. Our agent harness is a game changer. We ran 40 internal tasks and 7 failed. After adding a progress file, 3 failed on a second run of the same 40 tasks. We think the handoff helped, but this was one rerun. That's it. That's the whole thing."
+  },
+  {
+    "id": "03_missing_benchmark",
+    "prompt": "I am an AI engineer seeking personal contract opportunities. Write a post saying model A is twice as good as model B on support replies. I have not run a test and have no measurements. Do not browse."
+  },
+  {
+    "id": "04_new_profile",
+    "prompt": "Replace the previous profile. I am an early-career designer learning frontend development, with no client projects yet. I want personal junior-role conversations. My checklist for a form is: keyboard access, visible focus, clear labels, and an error message that says how to fix it. Use Work to Post to write one useful short post. No external resource exists."
+  },
+  {
+    "id": "05_detect_only",
+    "prompt": "Use Work to Post to flag generic or awkward phrasing in this paragraph. Do not rewrite it and do not guess whether AI wrote it.\n\nIn today's ever-evolving landscape, we leverage cutting-edge tools to empower teams. This isn't about software. It's about transformation. The future is here, and it's a game changer."
+  },
+  {
+    "id": "06_observation",
+    "prompt": "I am a product engineer and AI architect looking for personal embedded consulting opportunities. Use Work to Post to turn these notes into a short observation post. These are my three prototype sessions, not a survey: in session 1, a new agent session repeated a completed setup step; in session 2, it lost track of which test had failed; in session 3, it retried an already rejected fix. My interpretation is that session handoffs deserve explicit engineering. I have not tested a solution. Use only these notes."
+  },
+  {
+    "id": "07_outcome_scoring",
+    "prompt": "Use Work to Post in Learn mode. Review these results. Post P1 received 300 likes and generic 'great work' replies. After P2, a named founder asked about a real CRM integration and explicitly said P2 prompted the inquiry; no call was booked. The same founder later signed the integration engagement. A recruiter booked an interview for a named role and said they found my overall profile, without naming a post. Score client and personal-offer outcomes separately. Do not count the inquiry and its later agreement as two clients."
+  },
+  {
+    "id": "08_voice",
+    "prompt": "I am a software engineer writing a firsthand field note, not selling anything. Edit only, keep my dry tone, return only the copy under 90 words. Here is my actual experience: 'My demo survived a room full of executives. It did not survive my laptop going to sleep. I had kept the import job in the browser. Next version, it goes on the server. No performance numbers yet. Just one very educational nap.'"
+  }
+]

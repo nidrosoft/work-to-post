@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work to Post"
+  short_description: "Turn real work into posts that attract opportunities"
+  default_prompt: "Use $work-to-post to turn my notes into a grounded X post for the audience and outcome I choose."
