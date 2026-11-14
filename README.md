@@ -1,5 +1,7 @@
 # Work to Post for ChatGPT
 
+![Work to Post by Nidrosoft: 22,000 posts collected, 15 writing angles, and a free ChatGPT skill for long posts and threads](assets/work-to-post-cover.png)
+
 Turn work, observations, and research into useful X posts for client projects or personal consulting, contract, and employment opportunities. Created by **Cyriac Zeh / Nidrosoft**. Version **0.1.0-beta.2**, released under the [MIT license](LICENSE).
 
 The framework has 15 editorial angles, fill-in templates, Premium long-post and thread examples, a posting rhythm, and an embedded editing pass adapted from Peter Yang's No AI Slop. It serves engineers, designers, founders, AI practitioners, and consultants. Each person supplies their own experience and evidence.
